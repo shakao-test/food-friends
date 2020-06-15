@@ -1,0 +1,18 @@
+{
+    "name": "49th stream - Find my Food Friends",
+    "dependencies": {
+        "device": "*",
+        "story": "github:riknoll/arcade-story#v1.1.2",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.0.5"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
